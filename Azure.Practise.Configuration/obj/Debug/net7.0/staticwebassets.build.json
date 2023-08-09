@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "veXz7yT6eoQba324aSUdOiv3OKGI9SfpFrVIMK7jUts=",
+  "Source": "azure_app_configuration",
+  "BasePath": "_content/azure_app_configuration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
