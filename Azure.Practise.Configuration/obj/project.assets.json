@@ -1297,11 +1297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\practise\\Azure.Practise\\Azure.Practise.Configuration\\Azure.Practise.Configuration.csproj",
+      "projectUniqueName": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\Azure\\AzurePractise\\Azure.Practise.Configuration\\Azure.Practise.Configuration.csproj",
       "projectName": "Azure.Practise.Configuration",
-      "projectPath": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\practise\\Azure.Practise\\Azure.Practise.Configuration\\Azure.Practise.Configuration.csproj",
+      "projectPath": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\Azure\\AzurePractise\\Azure.Practise.Configuration\\Azure.Practise.Configuration.csproj",
       "packagesPath": "C:\\Users\\kelld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\practise\\Azure.Practise\\Azure.Practise.Configuration\\obj\\",
+      "outputPath": "C:\\Users\\kelld\\OneDrive\\Pulpit\\Code\\azure\\Azure\\AzurePractise\\Azure.Practise.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
